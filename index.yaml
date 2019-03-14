@@ -1,0 +1,104 @@
+apiVersion: v1
+entries:
+  consul:
+  - apiVersion: v1
+    created: 2019-03-14T11:01:41.763314-04:00
+    description: Install and configure Consul on Kubernetes.
+    digest: c154341cfc28e333b2b4adde8f91175b8248bb165c9bd09c2818ada46febbcd0
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://consul-helm-charts.storage.googleapis.com/consul-0.6.1.tgz
+    version: 0.6.1
+  - apiVersion: v1
+    created: 2019-03-14T11:01:41.761409-04:00
+    description: Install and configure Consul on Kubernetes.
+    digest: 45ed997a240f580777f437b9c4c3e08f8ce547cdbfdba065ef52765fbba681a1
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://consul-helm-charts.storage.googleapis.com/consul-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v1
+    created: 2019-03-14T11:01:41.760323-04:00
+    description: Install and configure Consul on Kubernetes.
+    digest: c1dc9d6f7de8d948b71cfbef0a82ade15052e8d213ef253b695a2b4db85d6781
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://consul-helm-charts.storage.googleapis.com/consul-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
+    created: 2019-03-14T11:01:41.759346-04:00
+    description: Install and configure Consul on Kubernetes.
+    digest: e326a3a619ab5c8d5f8e38fd9cb076eaff3fc63ed9a6c5ec71d6cde8ac0e73e5
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://consul-helm-charts.storage.googleapis.com/consul-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v1
+    created: 2019-03-14T11:01:41.758392-04:00
+    description: Install and configure Consul on Kubernetes.
+    digest: 22b2aac975f3ff6ba0748f7526133f0577f6f3697efae9f46b9b2294246e8839
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://consul-helm-charts.storage.googleapis.com/consul-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: 2019-03-14T11:01:41.757618-04:00
+    description: Install and configure Consul on Kubernetes.
+    digest: 1314eca0b1fe5996dda9af7c23a3deda57dd54b969e7f450c961ca33a2908702
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://consul-helm-charts.storage.googleapis.com/consul-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2019-03-14T11:01:41.756841-04:00
+    description: Install and configure Consul on Kubernetes.
+    digest: dc5fdd6d103d69490798fa81504668b76ac64cb7ab846556ee5f03fe767ce4e6
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://consul-helm-charts.storage.googleapis.com/consul-0.1.0.tgz
+    version: 0.1.0
+  microservices-demo:
+  - apiVersion: v1
+    created: 2019-03-14T11:01:41.763838-04:00
+    description: A Helm chart for Sock Shop
+    digest: e3538fc61db6ff9ac7d295177366be712731d628b96ac705be496511b4156658
+    name: microservices-demo
+    urls:
+    - https://consul-helm-charts.storage.googleapis.com/microservices-demo-0.2.1.tgz
+    version: 0.2.1
+generated: 2019-03-14T11:01:41.755984-04:00
